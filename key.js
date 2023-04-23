@@ -1,3 +1,3 @@
-const API_KEY = 'AIzaSyAhpbZ4-ZflzPJYFuuKD_uoeTqmcVyqIiE'; //provide your own youtube api
+const API_KEY = 'PASTE HERE YOUR YT API KEY'; //provide your own youtube api
 
 module.exports = API_KEY; 
